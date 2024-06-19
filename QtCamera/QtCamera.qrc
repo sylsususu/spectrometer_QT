@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="QtCamera">
+    <file>Image/白删除-01.svg</file>
+    <file>Image/删除.svg</file>
+  </qresource>
+</RCC>
